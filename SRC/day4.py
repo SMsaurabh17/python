@@ -34,3 +34,31 @@ for e in range (1,9):
     if e == 5:
         break
     print(e)
+
+
+# 8
+for f in range  (1,7):
+    if f == 6 :
+        break
+    print(f)
+
+
+# 9
+for g in range (1,10):
+    if g == 8 :
+        break
+    print(g)
+
+
+# 10 using continue statement
+for h in range (1,10):
+    if h == 5:
+        continue
+    print(h)
+
+
+# 11
+for i in range (5,51,5):
+    if i == 35:
+        continue
+    print(i)
